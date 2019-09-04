@@ -1,0 +1,15 @@
+﻿  Affine.cpp
+  AffineTest.cpp
+  Generating Code...
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(16): error C4716: 'cs250::isPoint': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(20): error C4716: 'cs250::isVector': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(25): error C4716: 'cs250::angle': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(12): error C4716: 'cs250::vector': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(39): error C4716: 'cs250::isAffine': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(35): error C4716: 'cs250::affine': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(29): error C4716: 'cs250::cross': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(44): error C4716: 'cs250::rotate': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(48): error C4716: 'cs250::scale': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(52): error C4716: 'cs250::scale': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(56): error C4716: 'cs250::translate': must return a value
+c:\users\oscar\desktop\cs250\assignment1\assignment1\affine.cpp(60): error C4716: 'cs250::affineInverse': must return a value
